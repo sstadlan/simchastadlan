@@ -140,6 +140,11 @@ footer {
 }
 
 @media (max-width: 480px) {
+    body {
+        font-size: 12px;
+        min-width: 0px;
+    }
+    
     .content_container {
         min-width: 0px;
     }
@@ -157,15 +162,15 @@ footer {
     
     p {
         line-height: 1.75;
-        margin-left: 30px;
+        margin-left: 20px;
     }
 
     ul li {
-        margin-left: 30px;
+        margin-left: 20px;
     }
 
     footer {
-        padding-left: 25px;
+        padding-left: 17px;
     }
 
     .contact_icons a {
