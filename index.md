@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@600&family=PT+Mono&family=Roboto:wght@300;400;500&display=swap">
+
+     <!-- Icons -->
+     <script src="https://kit.fontawesome.com/c3d5b482d1.js" crossorigin="anonymous"></script>
+
+    <title>Simcha Stadlan</title>
+    <meta name="description" content="I am a student at The Wharton School, interested in product, technology, and entrepreneurship">
+    <meta name="author" content="Simcha Stadlan">
+</head>
+<body>
+    <div class="content_container"></div>
+        <div class="content">
+            <header>
+                <h1>Simcha Stadlan</h1>
+                <a id="resume_button" href="">Resume</a>
+            </header>
+            <section>
+                <p>Currently studying Business and Computer Science at <a id="wharton_link" class="styled_link" href="https://www.wharton.upenn.edu/" target="_blank" style="color: #004785">The Wharton School</a>, <br> where I was the director of <a id="weiss_link" class="styled_link" href="https://weisslabs.weisstech.upenn.edu/" target="_blank" style="color: #672d91">WeissLabs</a> incubator and co-chair of the <a id="ocp_link" class="styled_link" href="https://pennocp.org/" target="_blank" style="color: #a90533">OCP</a>.</p>
+                <p>Over the past few summers, I’ve worked on product at <a id="amex_link" class="styled_link" href="https://americanexpress.com/" target="_blank" style="color:  #026fcf">American Express</a>, <br> strategized marketing at <a id="mongo_link" class="styled_link" href="https://mongodb.com/" target="_blank" style="color:  #13aa52">MongoDB</a>, and advised startups at <a id="mc_link" class="styled_link" href="https://masschallenge.org/" target="_blank" style="color: #0eabbc">MassChallenge</a>.</p>
+                <p>Some recent projects I’m proud of: 
+                    <ul style="margin-top: -5px;">
+                        <li>helped code a <a id="job_link" class="styled_link" href="https://ilmjtcv.com/" target="_blank" style="color: #4e81e4">job recruitment site</a> during COVID times</li>
+                        <li>designed a <a id="kitchen_link" class="styled_link" href="" target="_blank" style="color: #f4644c">kitchen gadget</a> that won "Professor's Choice"</li>
+                        <li>wrote the #1 ranked <a id="stat_link" class="styled_link" href="" target="_blank" style="color: #79c8ed">probability modeling paper</a> in STAT 476</li>
+                    </ul>
+                </p>
+                <p style="font-style: italic;">Always looking for new things to build, great people to team up with, <br> and ways to make the world a brighter place. Reach out with ideas!</p>
+            </section>
+            <footer>
+                <div class="contact_icons">
+                    <a href="mailto: sstadlan@wharton.upenn.edu">
+                        <span class="fa-stack fa-2x">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fas fa-envelope fa-stack-1x fa-inverse" style="font-size: 14px;"></i>
+                        </span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/simcha-stadlan-088327149/" target="_blank">
+                        <span class="fa-stack fa-2x">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-linkedin-in fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                    <a href="https://www.facebook.com/simcha.stadlan" target="_blank">
+                        <span class="fa-stack fa-2x">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </a>
+                </div>
+            </footer>
+        </div>
+</body>
