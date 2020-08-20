@@ -138,3 +138,37 @@ footer {
 .fa-circle{
     color: #003366;
 }
+
+@media (max-width: 480px) {
+    .content_container {
+        min-width: 0px;
+    }
+
+    h1 {
+        margin-left: 30px;
+    }
+
+
+    #resume_button {
+    cursor: pointer;
+    font-size: 14px;
+    left: 450px;
+    }
+    
+    p {
+        line-height: 1.75;
+        margin-left: 30px;
+    }
+
+    ul li {
+        margin-left: 30px;
+    }
+
+    footer {
+        padding-left: 25px;
+    }
+
+    .contact_icons a {
+        font-size: 10px;
+    }
+}
