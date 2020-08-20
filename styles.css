@@ -139,6 +139,10 @@ footer {
     color: #003366;
 }
 
+.fa-envelope {
+    font-size: 14px;
+}
+
 @media (max-width: 480px) {
     body {
         font-size: 10px;
@@ -154,11 +158,9 @@ footer {
         font-size: 25px;
     }
 
-
     #resume_button {
-    cursor: pointer;
-    font-size: 10px;
-    left: 300px;
+        font-size: 10px;
+        left: 300px;
     }
     
     p {
@@ -176,5 +178,9 @@ footer {
 
     .contact_icons a {
         font-size: 6px;
+    }
+    
+    .fa-envelope {
+        font-size: 10px;
     }
 }
