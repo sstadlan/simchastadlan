@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 15px;
     color: #282828;
     min-width: 640px;
@@ -33,7 +33,7 @@ h1 {
     color: #003366;
     background-color: transparent;
     font-family: 'PT Mono', monospace;
-    font-weidght: 400;
+    font-weight: 300;
     line-height: 1;
     cursor: pointer;
     font-size: 12px;
@@ -122,6 +122,8 @@ ul li {
 footer {
     padding-left: 96px;
     margin-top: 35px;
+    font-family: 'PT Mono', monospace;
+    font-weight: 300;
 }
 
 .contact_icons a {
