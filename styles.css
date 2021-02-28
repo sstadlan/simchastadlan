@@ -97,6 +97,10 @@ p {
     background-color: #0eabbc;
 }
 
+#textbook_link:after {
+    background-color: #b8a160;
+}
+
 #job_link:after {
     background-color: #4e81e4;
 }
